@@ -10,4 +10,4 @@ int main(){
         cout << "You are not an adult";
     }
     return 0;
-}
+} 
